@@ -1,0 +1,28 @@
+name: Perennialle Plants
+favicon: null
+layout_spectrum: 0.1972253699786961
+typography_spectrum: 0.8730036264751107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4040628266520798
+  lightness: 0.4990336033515632
+  saturation: 0.7679321619216353
+  rhythmicContrast: 0.5071588975843042
+purpose: []
